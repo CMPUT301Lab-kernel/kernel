@@ -5,10 +5,11 @@ public abstract class Shape {
     int y;
     String color;
 
-    public class Shape(int x int y){
+    public class Shape(int x, int y){
         this.x = x;
         this.y = y;
         color = "blue";
     }
 }
+
 
