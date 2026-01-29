@@ -2,6 +2,7 @@ public class Circle extends Shape{
     private int radius;
     public class Circle(int x, int y, int radius){
         super(x, y);
+        super(color);
         this.radius = radius;
     }
 }
