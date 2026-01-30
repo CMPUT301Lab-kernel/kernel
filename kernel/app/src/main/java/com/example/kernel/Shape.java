@@ -8,8 +8,9 @@ public abstract class Shape {
     public class Shape(int x, int y){
         this.x = x;
         this.y = y;
-        color = "blue";
+        color = "red";
     }
 }
+
 
 
